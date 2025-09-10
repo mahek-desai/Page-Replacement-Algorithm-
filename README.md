@@ -5,7 +5,7 @@ This project is a Flask-based web application that simulates classic Operating S
 
 Features
 
-Simulates Page Replacement Algorithms (FIFO, LRU, Optimal, etc.)
+Simulates Page Replacement Algorithms (LRU,MRU)
 
 Visualizes memory frames at each step of execution
 
